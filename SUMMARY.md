@@ -22,14 +22,15 @@
 
 ## Utilities
 
-* [macOS](utilities/macos.md)
-* [Windows](utilities/windows.md)
-* [Linux/Unix](utilities/linux-unix.md)
+* [OS\_Specific\_Utilities](utilities/os\_specific\_utilities.md)
 * [Mathematica](utilities/mathematica.md)
 * [Matlab](utilities/matlab.md)
 * [LaTeX](utilities/latex.md)
 * [Obsidian](utilities/obsidian.md)
+* [Vim/Neovim](utilities/vim-neovim.md)
 * [PDF\_Utilities](utilities/pdf\_utilities.md)
+* [Remarkable\_Tablet](utilities/remarkable\_tablet.md)
+* [Miscellaneous](utilities/miscellaneous.md)
 
 ## Beverages
 
