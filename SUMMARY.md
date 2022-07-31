@@ -14,12 +14,21 @@
 
 * [Resources](programming/resources.md)
 * [C/C++](programming/c-c++.md)
-* [Python](programming/python.md)
+* [Python](programming/python/README.md)
+  * [Automation Python](programming/python/automation-python.md)
+  * [General Python](programming/python/general-python.md)
+  * [Scientific Python](programming/python/scientific-python.md)
 * [Lua](programming/lua.md)
 
 ## Utilities
 
-* [Page 1](utilities/page-1.md)
+* [macOS](utilities/macos.md)
+* [Windows](utilities/windows.md)
+* [Linux/Unix](utilities/linux-unix.md)
+* [Mathematica](utilities/mathematica.md)
+* [Matlab](utilities/matlab.md)
+* [LaTeX](utilities/latex.md)
+* [Obsidian](utilities/obsidian.md)
 
 ## Beverages
 
