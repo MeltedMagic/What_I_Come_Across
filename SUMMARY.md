@@ -29,6 +29,7 @@
 * [Matlab](utilities/matlab.md)
 * [LaTeX](utilities/latex.md)
 * [Obsidian](utilities/obsidian.md)
+* [PDF\_Utilities](utilities/pdf\_utilities.md)
 
 ## Beverages
 
