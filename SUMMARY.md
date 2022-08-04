@@ -4,11 +4,27 @@
 
 ## Math
 
+* [Undergraduate Math](math/undergraduate-math.md)
 * [Resources](math/resources.md)
 
 ## Physics
 
-* [Resources](physics/resources.md)
+* [Undergraduate Physics](physics/undergraduate-physics.md)
+* [Resources](physics/resources/README.md)
+  * [Mechanics](physics/resources/mechanics.md)
+  * [Quantum Mechanics](physics/resources/quantum-mechanics.md)
+  * [Electrostatics & Electrodynamics](physics/resources/electrostatics-and-electrodynamics.md)
+  * [Modern Physics](physics/resources/modern-physics.md)
+  * [Statistical Mechanics](physics/resources/statistical-mechanics.md)
+  * [Condensed Matter / Solid State Physics](physics/resources/condensed-matter-solid-state-physics.md)
+  * [Superconductors](physics/resources/superconductors.md)
+  * [Particle Physics](physics/resources/particle-physics.md)
+  * [Optics & Thermodynamics](physics/resources/optics-and-thermodynamics.md)
+  * [Mathematical Methods](physics/resources/mathematical-methods.md)
+  * [Relativity](physics/resources/relativity.md)
+  * [Quantum Field Theory](physics/resources/quantum-field-theory.md)
+  * [Quantum Computing](physics/resources/quantum-computing.md)
+  * [Fluid Dynamics](physics/resources/fluid-dynamics.md)
 
 ## Programming
 
