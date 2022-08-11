@@ -3,6 +3,8 @@ description: Course catalogs, bibliographies, syllabi, and more links
 ---
 
 # Undergraduate Physics
+The course catalog is to give a good idea how to get started studying physics and the pre-requisites necessary
+to get started.
 
 ## Bibliographies (Just pick something and start)
 
