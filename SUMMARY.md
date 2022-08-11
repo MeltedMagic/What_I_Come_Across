@@ -5,7 +5,17 @@
 ## Math
 
 * [Undergraduate Math](math/undergraduate-math.md)
-* [Resources](math/resources.md)
+* [Resources](math/README.md)
+	* [Calculus](math/resources/calculus.md)
+	* [Differential Equations](math/resources/differential_equations.md)
+	* [Introduction to Proofs](math/resources/introduction_to_proofs.md)
+	* [Linear Algebra](math/resources/linear_algebra.md)
+	* [Modern Algebra](math/resources/modern_algebra.md)
+	* [Advanced Calculus](math/resources/advanced_calculus.md)
+	* [Real Analysis](math/resources/advanced_calculus.md)
+	* [Statistics and Probability](math/resources/statistics_and_probability.md)
+	* [Topology](math/resources/toplogy.md)
+	* [Fourier Series](math/resources/fourier_series.md)
 
 ## Physics
 
@@ -50,7 +60,6 @@
 
 ## Beverages
 
-* [Resources](beverages/resources.md)
 * [Coffee](beverages/coffee.md)
 * [Tea](beverages/tea.md)
 * [Sparkling Water](beverages/sparkling-water.md)
