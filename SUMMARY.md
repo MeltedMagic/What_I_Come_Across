@@ -2,10 +2,15 @@
 
 * [🚩 About](README.md)
 
+## Archival
+
+* [Save Everything](archival/README.md)
+
+
 ## Math
 
 * [Undergraduate Math](math/undergraduate-math.md)
-* [Resources](math/README.md)
+* [Resources](math/resources/README.md)
 	* [Calculus](math/resources/calculus.md)
 	* [Differential Equations](math/resources/differential_equations.md)
 	* [Introduction to Proofs](math/resources/introduction_to_proofs.md)
