@@ -6,10 +6,16 @@ such, I deemed it necessary to dedicate an entire section to archival. This will
 `CMD+s` to installing applications and browser extensions and possibly backing things up to various 
 cloud hosting services.
 
+
 ## Web Browser Extensions
+
 
 ## Software
 
+
 ## Cloud Hosting
 
+
 ## Hard Drives
+
+
