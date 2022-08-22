@@ -6,20 +6,24 @@
 
 * [Save Everything](archival/README.md)
 
+## Papers
+
+* [Quantum Computing](papers/quantum-computing.md)
+
 ## Math
 
 * [Undergraduate Math](math/undergraduate-math.md)
 * [Resources](math/resources/README.md)
-	* [Calculus](math/resources/calculus.md)
-	* [Differential Equations](math/resources/differential_equations.md)
-	* [Introduction to Proofs](math/resources/introduction_to_proofs.md)
-	* [Linear Algebra](math/resources/linear_algebra.md)
-	* [Modern Algebra](math/resources/modern_algebra.md)
-	* [Advanced Calculus](math/resources/advanced_calculus.md)
-	* [Real Analysis](math/resources/real_analysis.md)
-	* [Statistics and Probability](math/resources/statistics_and_probability.md)
-	* [Topology](math/resources/toplogy.md)
-	* [Fourier Series](math/resources/fourier_series.md)
+  * [Calculus](math/resources/calculus.md)
+  * [Differential Equations](math/resources/differential\_equations.md)
+  * [Introduction to Proofs](math/resources/introduction\_to\_proofs.md)
+  * [Linear Algebra](math/resources/linear\_algebra.md)
+  * [Modern Algebra](math/resources/modern\_algebra.md)
+  * [Advanced Calculus](math/resources/advanced\_calculus.md)
+  * [Real Analysis](math/resources/real\_analysis.md)
+  * [Statistics and Probability](math/resources/statistics\_and\_probability.md)
+  * [Topology](math/resources/toplogy.md)
+  * [Fourier Series](math/resources/fourier\_series.md)
 
 ## Physics
 
@@ -49,18 +53,36 @@
   * [General Python](programming/python/general-python.md)
   * [Scientific Python](programming/python/scientific-python.md)
 * [Lua](programming/lua.md)
+* [Miscellaneous](programming/miscellaneous.md)
 
-## Utilities
+## Setup
 
-* [OS\_Specific\_Utilities](utilities/os\_specific\_utilities.md)
-* [Mathematica](utilities/mathematica.md)
-* [Matlab](utilities/matlab.md)
-* [LaTeX](utilities/latex.md)
-* [Obsidian](utilities/obsidian.md)
-* [Vim/Neovim](utilities/vim-neovim.md)
-* [PDF\_Utilities](utilities/pdf\_utilities.md)
-* [Remarkable\_Tablet](utilities/remarkable\_tablet.md)
-* [Miscellaneous](utilities/miscellaneous.md)
+* [OS/Platforms](setup/os-platforms/README.md)
+  * [macOS](setup/os-platforms/macos.md)
+  * [Windows](setup/os-platforms/windows.md)
+  * [Linux/Unix ...](setup/os-platforms/linux-unix-....md)
+  * [iOS](setup/os-platforms/ios.md)
+  * [Remarkable Tablet](setup/os-platforms/remarkable-tablet.md)
+* [Web Browsers](setup/web-browsers/README.md)
+  * [Chrome/Edge/Opera/Brave ...](setup/web-browsers/chrome-edge-opera-brave-....md)
+  * [Firefox/Waterfox ...](setup/web-browsers/firefox-waterfox-....md)
+* [Code Editors](setup/code-editors/README.md)
+  * [Vim/Neovim](setup/code-editors/vim-neovim.md)
+  * [VSCode](setup/code-editors/vscode.md)
+* [Computer Algebra Systems](setup/computer-algebra-systems/README.md)
+  * [Mathematica](setup/computer-algebra-systems/mathematica.md)
+  * [Matlab](setup/computer-algebra-systems/matlab.md)
+* [Document Preparation Systems](setup/latex/README.md)
+  * [LaTeX](setup/latex/latex.md)
+  * [Markdown](setup/latex/markdown.md)
+* [Studying](setup/obsidian/README.md)
+  * [Obsidian](setup/obsidian/obsidian.md)
+  * [Anki](setup/obsidian/anki.md)
+* [Miscellaneous](setup/miscellaneous/README.md)
+  * [PDF Utilities](setup/miscellaneous/pdf-utilities.md)
+  * [Metadata Utilities](setup/miscellaneous/metadata-utilities.md)
+  * [Various Utilities](setup/miscellaneous/various-utilities.md)
+* [Fonts](setup/fonts.md)
 
 ## Beverages
 
@@ -73,6 +95,6 @@
 * [Resources](electronics/resources.md)
 * [Projects](electronics/projects.md)
 
+## Unsorted
 
-## Uncategorised
-* [Bookmarks](uncategorised/bookmarks.md)
+* [Bookmarks](unsorted/bookmarks.md)
