@@ -47,3 +47,6 @@
 * https://news.ycombinator.com/item?id=32497780 -- There's No Speed Limit
 * https://www.fourmilab.ch/autofile/www/autofile.html -- The Autodesk File
 * https://news.ycombinator.com/item?id=32496314 -- The Product Culture Shift
+* https://news.ycombinator.com/item?id=32287902 -- ImHex Hex Editor
+* https://news.ycombinator.com/item?id=32559119 -- An Odd Discovery on Spotify
+* https://news.ycombinator.com/item?id=32558012 -- Republishing a fork of the sanctioned Tornado Cash repositories
