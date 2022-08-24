@@ -1,6 +1,6 @@
 # 🚩 About
 
-Repository for [Everything I Come Across](https://manu-samala.gitbook.io/what-ive-come-across/). Hopefully I maintain this till the end of time. Inspired by: [https://wiki.nikiv.dev/tools/gitbook](https://wiki.nikiv.dev/tools/gitbook)
+Repository for [What I Come Across](https://manu-samala.gitbook.io/what-ive-come-across/). Hopefully I maintain this till the end of time. Inspired by: [https://wiki.nikiv.dev/tools/gitbook](https://wiki.nikiv.dev/tools/gitbook)
 
 If there is anything I miss or anything that should be added, create a github issue and I will address as soon as I can.
 
