@@ -50,3 +50,60 @@
 * https://news.ycombinator.com/item?id=32287902 -- ImHex Hex Editor
 * https://news.ycombinator.com/item?id=32559119 -- An Odd Discovery on Spotify
 * https://news.ycombinator.com/item?id=32558012 -- Republishing a fork of the sanctioned Tornado Cash repositories
+* https://news.ycombinator.com/item?id=32245545 -- How to Stop Procrastinating on Your Goals by Using the "Seinfeld Strategy"
+* https://news.ycombinator.com/item?id=32343443 -- Art of README (2020)
+* https://getpocket.com/explore/item/walt-whitman-on-what-makes-life-worth-living
+* https://news.ycombinator.com/item?id=32286157 -- A Coder's Guide to Coffee (2002)
+* https://news.ycombinator.com/item?id=32288462 -- Ask HN: Courses explaining well-written codebases?
+* https://news.ycombinator.com/item?id=32287512 -- Ask HN: How do you critically evaluate scientific papers?
+* https://www.goodreads.com/book/show/11797471-the-idea-factory 
+* https://news.ycombinator.com/item?id=32335165 -- Productivity Porn
+* https://news.ycombinator.com/item?id=32343370 -- Black holes finally proven stable
+* https://news.ycombinator.com/item?id=32342493 -- Ask HN: Any great books about technical writing?
+* https://news.ycombinator.com/item?id=32378309 -- What are some of your favourite Youtube channels?
+* https://www.youtube.com/c/ArthurVere/videos -- Music
+* https://lifehacker.com/how-to-finally-start-working-out-even-if-you-hate-it-1729593891
+* https://news.ycombinator.com/item?id=32409842 -- How to Present to Executives (2021)
+* https://news.ycombinator.com/item?id=32427588 -- I wish I could organise my thoughts
+* https://news.ycombinator.com/item?id=32422374 -- How to learn hard things in tech
+* https://news.ycombinator.com/item?id=32220192 -- Youtube Channels for the Intellectually Curious
+* https://www.theguardian.com/science/2022/aug/17/stop-drinking-keep-reading-look-after-your-hearing-a-neurologists-tips-for-fighting-memory-loss-and-alzheimers
+* https://www.amazon.com/Lectures-Philosophy-Mathematics-David-Hamkins/dp/0262542234 -- Lectures on the Philosophy of Mathematics
+* https://www.theatlantic.com/technology/archive/2017/04/the-tragedy-of-google-books/523320/
+* https://www.nytimes.com/2022/06/30/well/live/surprise-medical-bills.html -- How to Dispute Surprise Medical Bills
+* https://insurance.maryland.gov/Consumer/Pages/Federal-No-Surprises-Act.aspx
+* https://news.ycombinator.com/item?id=31941607 -- The Feynman Technique 2.0: How to Take Your Learning to the Next Level
+* https://direct.mit.edu/books/oa-monograph/5329/The-Art-of-Abduction
+* https://store.steampowered.com/app/1843090/Chillas_Art_The_Closing_Shift/
+* https://news.ycombinator.com/item?id=21172686 -- Writing is Thinking: Learning to Write with Confidence
+* https://news.ycombinator.com/item?id=31961239 -- The Bullshit Web (2018)
+* https://www.youtube.com/watch?v=TO0Tx3w5abQ -- Why I use Wave Function Collapse to create levels for my game
+* https://news.ycombinator.com/item?id=31971858 -- Why nobody ever wins the car at the mall (2018)
+* https://news.ycombinator.com/item?id=31967356 -- How to Know Everything
+* https://www.amazon.com/Quantum-Electrodynamics-Frontiers-Physics-Richard/dp/0201360756
+* https://www.amazon.com/Practical-Quantum-Electrodynamics-Douglas-Gingrich/dp/0367390884
+* https://github.com/codecrafters-io/build-your-own-x
+* https://www.quantamagazine.org/ukrainian-mathematician-maryna-viazovska-wins-fields-medal-20220705/ -- In Times of Scarcity, War and Peace, a Ukrainian Finds the Magic in Math
+* https://news.ycombinator.com/item?id=31981486 -- On the use of a life (2020)
+* https://news.ycombinator.com/item?id=31947277 -- How to fuck up an airport
+* https://news.ycombinator.com/item?id=31973917 -- US regulators to examine Boeing 737 Max production
+* https://news.ycombinator.com/item?id=31968280 -- Visualizing quantum mechanics in an interactive simulation
+* https://news.ycombinator.com/item?id=31985400 -- He dropped out to become a poet – now he’s won a Fields Medal
+* https://www.wikiwand.com/en/Symplectic_geometry
+* https://news.ycombinator.com/item?id=32586273 -- 	A Theoretical Justification (2021)
+* https://news.ycombinator.com/item?id=32081288 -- Lessons I wish I had been taught (1996)
+* https://news.ycombinator.com/item?id=32112081 -- Pursuing the Reunification of Home and Work
+* https://www.youtube.com/watch?v=KufsL2VgELo -- Researchers Use Group Theory to Speed Up Algorithms — Introduction to Groups
+* https://news.ycombinator.com/item?id=32115290 -- 10 Lessons of an MIT Education
+* https://basicappleguy.com/basicappleblog/999month
+* https://xianblog.wordpress.com/2022/07/05/bayes-rules-book-review/
+* https://www.bayesrulesbook.com/
+* https://news.ycombinator.com/item?id=32125834 -- Bayes Rules – An Introduction to Applied Bayesian Modeling (2021)
+* https://news.ycombinator.com/item?id=32130626 -- Sitting and standing at work (2015)
+* https://news.ycombinator.com/item?id=32157759 -- Build Your Own X
+* https://news.ycombinator.com/item?id=32146883 -- Taking things less personally
+* https://news.ycombinator.com/item?id=32125734 -- A systems model of anxiety-driven procrastination
+* https://news.ycombinator.com/item?id=32164593 -- Love the smell of old books? This bookseller would like you to leave
+* https://news.ycombinator.com/item?id=32161967 -- The Art of Abduction
+* https://news.ycombinator.com/item?id=32149937 -- Be careful how you pay the bills
+* https://news.ycombinator.com/item?id=32565722 -- Permutation Generation Methods [pdf]
