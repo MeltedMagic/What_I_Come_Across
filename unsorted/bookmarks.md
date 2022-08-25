@@ -107,3 +107,5 @@
 * https://news.ycombinator.com/item?id=32161967 -- The Art of Abduction
 * https://news.ycombinator.com/item?id=32149937 -- Be careful how you pay the bills
 * https://news.ycombinator.com/item?id=32565722 -- Permutation Generation Methods [pdf]
+* https://programmingwithstyle.com/ -- How I Hacked My Car
+
