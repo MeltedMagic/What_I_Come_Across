@@ -108,4 +108,21 @@
 * https://news.ycombinator.com/item?id=32149937 -- Be careful how you pay the bills
 * https://news.ycombinator.com/item?id=32565722 -- Permutation Generation Methods [pdf]
 * https://programmingwithstyle.com/ -- How I Hacked My Car
-
+* https://news.ycombinator.com/item?id=32594010 -- The Coming Tsunami of Fakery
+* https://news.ycombinator.com/item?id=28379872 -- The Dead Internet Theory
+* https://news.ycombinator.com/item?id=32592492 -- Lisp can be “hard” real time [pdf] (2000) 
+* https://news.ycombinator.com/item?id=32593190 -- Ask HN: I want to dive into how to make search engines
+* https://news.ycombinator.com/item?id=32598714 -- Largest Japanese Anime Database “Anime Taizen” Opens to the Public Today
+* https://news.ycombinator.com/item?id=32560278 -- The Great Miyazaki Watch of 2022
+* https://news.ycombinator.com/item?id=32599055 -- Ask HN: Is there a good guide to being secure online for non-technical people?
+* https://news.ycombinator.com/item?id=32592600 -- How to make Flappy Bird with C++
+* https://news.ycombinator.com/item?id=32575423 -- Living Closer Together
+* https://news.ycombinator.com/item?id=32581721 -- Why do arrays start at 0?
+* https://news.ycombinator.com/item?id=32583257 -- John Carmack on Avoiding Distractions
+* https://news.ycombinator.com/item?id=32580631 -- Korea shatters its own record for world’s lowest fertility rate
+* https://news.ycombinator.com/item?id=32595681 -- Creativity requires solitude
+* https://news.ycombinator.com/item?id=32561868 -- Low-Background Steel (2018)
+* https://news.ycombinator.com/item?id=32560540 -- Superefficient solar desalination (2020)
+* https://news.ycombinator.com/item?id=32596903 -- Oracle started as a CIA Project (2014)
+* https://news.ycombinator.com/item?id=32601901 -- Google search missing results other search engines have
+* https://linuxize.com/post/vim-undo-redo/ -- Vim undo & redo
